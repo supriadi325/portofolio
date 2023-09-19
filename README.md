@@ -5,8 +5,7 @@ Selamat datang di portofolio GameLab saya! Saya, Supriadi, adalah seorang siswa 
 ## Daftar Isi
 
 1. [Tentang Saya](#tentang-saya)
-2. [Proyek-Proyek](#proyek-proyek)
-3. [Kontak](#kontak)
+2. [Kontak](#kontak)
 
 ## Tentang Saya
 
